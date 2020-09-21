@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\thembelihle.stemela\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\thembelihle.stemela\\.nuget\\packages"
+    ]
+  }
+}
